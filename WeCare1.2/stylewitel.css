@@ -1,0 +1,18 @@
+body {
+  min-height: 1000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e74747;
+  font-family: sans-serif;
+}
+.nav-item {
+  font-family: sans-serif;
+}
+.navbar-brand {
+  font-family: sans-serif;
+}
+#info {
+  background-color: #b3273a;
+}
